@@ -1,0 +1,28 @@
+1713706962132	Rename compilation unit 'ConnecDatabase.java'
+1713708833815	Rename package 'dao'
+1713710687083	Rename type 'LoginAction'
+1713722617618	Delete element
+1713725130639	Rename type 'ManagementDoanhThu'
+1713725153003	Delete element
+1713777286334	Rename package 'dao_Account'
+1713777310137	Rename type 'NhanVien_Colletion'
+1713834948652	Rename type 'pnNhanVien'
+1713869929466	Rename type 'SearchKhachHang'
+1713874653604	Delete element
+1713874660403	Rename resource 'Gui_QuanLiKhachHang (1).java'
+1713875542821	Delete element
+1713875566567	Delete element
+1713881103859	Rename resource 'DAO_SearchNhanVien (1).java'
+1713881112489	Rename resource 'Gui_TimKiemNhanVien (1).java'
+1713881582399	Rename type 'DAO_SearchNhanVien'
+1713882088202	Rename type 'SearchNhanVien'
+1713884360936	Delete element
+1713884682591	Delete element
+1713898636537	Rename type 'main_SanPham'
+1713898870249	Delete element
+1713898890329	Rename type 'SamPham'
+1713899634862	Delete element
+1713899638869	Delete element
+1713899831496	Delete element
+1713899902524	Rename type 'DAO_SearchSanPham'
+1713900211972	Rename type 'SearchSanPham'

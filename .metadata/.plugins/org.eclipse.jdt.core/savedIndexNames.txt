@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\PhamV.Hinh\HocKi2_2023-2024\HuongSuKienJava\BigProject\.metadata\.plugins\org.eclipse.jdt.core
+3900113458.index
+3413725848.index
+1865797976.index
+3151522411.index
